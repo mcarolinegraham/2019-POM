@@ -1,0 +1,85 @@
+  <?xml version="1.0" encoding="UTF-8"?>
+  <resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
+    <creators><creator>
+          
+          <creatorName nameType="Personal">(u'Hunt', u'Brian')</creatorName>
+          <givenName>Brian</givenName>
+          <familyName>Hunt</familyName>
+        </creator><creator>
+          
+          <creatorName nameType="Personal">(u'Hunt', u'Brian')</creatorName>
+          <givenName>Brian</givenName>
+          <familyName>Hunt</familyName>
+        </creator><creator>
+          
+          <creatorName nameType="Personal">(u'Pakhomov', u'Evgeny')</creatorName>
+          <givenName>Evgeny</givenName>
+          <familyName>Pakhomov</familyName>
+        </creator></creators>
+    <titles>
+      <title xml:lang="en">Particulate Organic Matter (POM) data from the 2019 Gulf of Alaska International Year of the Salmon Expedition</title>
+      <title xml:lang="fr">Données sur les matières organiques particulaires (POM) de l'expédition du saumon 2019 dans le golfe de l'Alaska</title>
+    </titles>
+    <publisher>party['organization-name']</publisher>
+      <subjects>
+      <subject xml:lang="en">oceans</subject>
+      <subject xml:lang="en">international-year-of-the-salmon</subject>
+      <subject xml:lang="en">particulate-organic-matter</subject>
+      <subject xml:lang="en">other</subject>
+    </subjects>
+    <language>en</language>
+    <resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+    <version>1.0</version>
+    <descriptions>
+      <description xml:lang="en" descriptionType="Abstract">
+        Particulate Organic Matter (POM) samples were collected for the analysis of carbon and nitrogen content and stable isotope composition at all oceanographic stations. Samples were collected using Niskin bottles from a depth of 5m. These data were collected as part of the International Year of the Salmon (IYS) Gulf of Alaska High Seas Expedition conducted in February and March 2019, to further improve the understanding of factors impacting salmon early marine winter survival.
+      </description>
+      <description xml:lang="fr" descriptionType="Abstract">
+        Des échantillons de matières organiques particulaires (POM) ont été prélevés pour l'analyse de la teneur en carbone et en azote et de la composition des isotopes stables à toutes les stations océanographiques. Les échantillons ont été prélevés à l'aide de bouteilles Niskin à une profondeur de 5 m. Ces données ont été recueillies dans le cadre de l'expédition en haute mer de l'Année internationale du saumon (IYS) dans le golfe de l'Alaska, qui a eu lieu en février et mars 2019, afin d'améliorer encore la compréhension des facteurs ayant une incidence sur la survie du saumon en début d'hiver en mer.
+      </description>
+    </descriptions>
+
+    <geoLocations>
+      <geoLocation>
+        <geoLocationBox>
+          <westBoundLongitude></westBoundLongitude>
+          <eastBoundLongitude></eastBoundLongitude>
+          <southBoundLatitude></southBoundLatitude>
+          <northBoundLatitude></northBoundLatitude>
+        </geoLocationBox>
+        
+        <geoLocationPolygon>
+          <polygonPoint>
+            <pointLatitude>48.311</pointLatitude>
+            <pointLongitude>-128.513667</pointLongitude>
+          </polygonPoint>
+          <polygonPoint>
+            <pointLatitude>56.668667</pointLatitude>
+            <pointLongitude>-143.000167</pointLongitude>
+          </polygonPoint>
+          <polygonPoint>
+            <pointLatitude>56.667333</pointLatitude>
+            <pointLongitude>-147.503333</pointLongitude>
+          </polygonPoint>
+          <polygonPoint>
+            <pointLatitude>47.668333</pointLatitude>
+            <pointLongitude>-147.500667</pointLongitude>
+          </polygonPoint>
+          <polygonPoint>
+            <pointLatitude>47.666833</pointLatitude>
+            <pointLongitude>-136.997</pointLongitude>
+          </polygonPoint>
+          <polygonPoint>
+            <pointLatitude>48.191167</pointLatitude>
+            <pointLongitude>-129.9175</pointLongitude>
+          </polygonPoint>
+          <polygonPoint>
+            <pointLatitude>48.311</pointLatitude>
+            <pointLongitude>-128.513667</pointLongitude>
+          </polygonPoint>
+        </geoLocationPolygon>
+      </geoLocation>
+    </geoLocations>
+
+  </resource>
+  
