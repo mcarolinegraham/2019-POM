@@ -1,0 +1,51 @@
+Protocols for Particulate Organic Matter Data from the 2019 Gulf of Alaska International Year of the Salmon Expedition
+
+
+Collecting samples 
+
+1.	Samples collected from the photic zone (25m depth) using Niskin bottle 
+2.	Ideally replicate samples collected, one to be acidified and the other not to be acidified. However, we can expect very low biomass and use all the water we can (5L) to make sure that we have enough organic material in a sample. Given the amount of water required that we collect one sample as a default and do not acidify to remove carbonates (which are likely minimal in the system). I suggest that we try to collect replicate whenever we can to be able to acidify. 
+
+Filtering the samples 
+
+Filtration is performed with a vacuum pump: 
+1.	Load 25 mm filter funnel with pre-combusted filters and pre-weighed filters. 
+2.	Invert sample bottle to mix water and rinse measuring jugs with sample water prior to filtering. 
+3.	Filter 4 liters of water through filter, or enough water for the filter to have significant colour. (add water for 20 minutes, then allow another 10 for water to finish draining) 
+4.	Do not let the pressure exceed -0.4 bar (-12 inHg). 
+5.	Take care not to let the filter run dry. This will cause phytoplankton cells to rupture. 
+6.	Once all water has been filtered close the filter funnel stopper and turn off the pump. 
+7.	Make sure that the volume of water filtered to the point of termination is recorded. 
+8.	Lift the rubber stopper to release the pressure then carefully remove the filter using flat filter forceps. Fold filter in half (inwards) using two pairs of forceps and place into numbered squares of aluminum foil. 
+9.	Fold the foil square along the edges to seal the package. 
+10.	Label the filter and record the exact volume filtered with sharpie on the tinfoil packet. Record that the Sample Type is “POM”. 
+11.	For each filter record the filter number, the station depth and date, and the volume filtered on the station sheet. 
+
+IF ACIDIFYING: 
+12.	After filtration lift the rubber stopper to release the pressure then Add 2.5 of 1 M HCl (made with filtered seawater) to the filter funnel using a pipette (use 5 mL 1M HCl (made with filtered seawater) if using 47 mm GF/F filters). 
+13.	Let the HCl bath the filter for 30 seconds. 
+14.	Open the funnel stopper and drain the HCl, rinsing briefly with filtered seawater sprayed around the funnel, never directly on the filter. 
+15.	Label the filter that was acid treated with an “A”. record the exact volume filtered with sharpie on the tinfoil packet. Record that the Sample Type is “POM”. 
+16.	For each filter record the filter number, the station depth and date, and the volume filtered on the station sheet. 
+
+Filter Storage 
+
+1.	Place filters in a labelled Ziplock bag (POM) and store in a -20°C freezer until drying. 
+
+Equipment
+ 
+•	Niskin bottles
+•	25mm filter funnel
+•	Pre-combusted filters & pre-weighed filters
+•	Sample bottle
+•	Measuring jugs
+•	Pump
+•	Flat filter forceps
+•	Aluminum foil
+•	1M HCl
+•	Pipette
+•	47mm GF/F Filter
+•	Funnel
+ 
+Onboard Infrastructure Requirements
+•	-20°C Freezer
